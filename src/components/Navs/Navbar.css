@@ -1,0 +1,24 @@
+nav {
+  background-color: #fff;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
+nav a {
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+  color: #a82d49 !important;
+  font-weight: 600 !important;
+}
+nav .links {
+  margin-left: auto !important ;
+}
+nav img {
+  max-width: 100%;
+  height: 90%;
+}

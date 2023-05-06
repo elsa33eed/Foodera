@@ -1,0 +1,76 @@
+.review {
+  padding: 10px 0;
+}
+.about-inline {
+  padding: 80px 0;
+}
+.review .about-inline h3 {
+  color: #43121d;
+  margin-bottom: 15px;
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 700;
+}
+.review .about-inline p {
+  font-size: 16px;
+  padding: 0 14%;
+}
+.review .card {
+  margin-bottom: 30px;
+}
+.review .card-product .img-wrap {
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+  position: relative;
+  height: 260px;
+  text-align: center;
+}
+.review .card-product .img-wrap img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.review .card-product .info-wrap {
+  overflow: hidden;
+  padding: 15px;
+}
+.review h4 {
+  height: 60px;
+}
+.review h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #43121d;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 0.1px;
+}
+.elements-content p {
+  font-size: 16px;
+}
+.price-new {
+  font-weight: bold;
+  color: #a82d49;
+}
+.card-product .price-old {
+  color: #999;
+}
+.card-product .bottom-wrap {
+  padding: 15px;
+  border-top: 1px solid #eee;
+}
+.btn.btn-primary {
+  background: #a82d49;
+  border: 3px solid #a82d49;
+  color: #fff;
+}
+.btn.btn-primary:hover {
+  border: 3px solid #a82d49 !important;
+  background: transparent;
+  color: #a82d49;
+}

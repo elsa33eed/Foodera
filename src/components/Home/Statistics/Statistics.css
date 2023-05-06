@@ -1,0 +1,36 @@
+.stat {
+  padding: 40px 0;
+  background-color: #a82d49;
+}
+.stat .info {
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  color: #555;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.5px;
+}
+.stat .info p {
+  color: #fff;
+  font-size: 40px;
+  margin: 0 0 20px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
+}
+.stat .info h2 {
+  color: #fff;
+  font-size: 13px;
+  font-family: "roboto", Times, serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+.info i {
+  color: red;
+  font-size: 40px;
+  margin: 0 auto 25px;
+  display: table;
+}

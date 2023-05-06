@@ -1,0 +1,35 @@
+.parlex {
+  background-image: url(../../../Imgs/parlex.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 450px;
+  padding-top: 50px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.parlex h1 {
+  color: #a82d49;
+  padding-top: 40px px;
+}
+.parlex p {
+  color: #555;
+  padding-top: 20px;
+}
+.parlex a {
+  outline: 0;
+  color: #43121d;
+  text-decoration: none;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+}
+.parlex a:hover {
+  color: #a82d49;
+}

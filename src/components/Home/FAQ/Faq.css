@@ -1,0 +1,145 @@
+.faq {
+  padding: 80px 0;
+}
+.faq h3 {
+  color: #43121d;
+  margin-bottom: 15px;
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 700;
+}
+.faq .row h5 {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+}
+.faq h5 span {
+  color: #f98169;
+  font-size: 28px;
+  font-family: ubuntu;
+  font-weight: 300;
+  vertical-align: middle;
+}
+
+.parallax2 {
+  background: url(../../../Imgs/Food.jpg) no-repeat center fixed;
+  background-size: cover;
+  background-position: 0px 82.1625px;
+}
+.parallax-content2 {
+  padding: 70px 0;
+  position: relative;
+  height: 40vh;
+}
+.overlay {
+  background: #151515;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.parallax-content2 .overlay {
+  background-color: #000;
+  opacity: 0.4;
+}
+.parallax-content2 h4 {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: left;
+  letter-spacing: 0.2px;
+}
+.btn.btn-lg {
+  font-size: 14px;
+}
+.btn.btn-primary {
+  background: #a82d49;
+  border: 3px solid #a82d49;
+  color: #fff;
+}
+.btn.btn-primary:hover {
+  border: 3px solid #a82d49 !important;
+  background: transparent;
+  color: #a82d49;
+}
+.btn.btn-lg {
+  font-size: 14px;
+}
+.parallax-content2 .container {
+  position: relative;
+}
+/* subscribe section */
+.space80 {
+  margin-bottom: 80px;
+}
+.subscribe-elt2 {
+  padding: 120px 0 50px 0;
+}
+.cta-wrap {
+  padding: 80px 0 65px;
+}
+.subscribe-elt2 p {
+  color: #555;
+  text-align: center;
+  width: 100%;
+  letter-spacing: 0.2px;
+  padding: 25px 0 15px;
+}
+.intro-newsletter {
+  width: 55%;
+  margin: 0px auto;
+}
+.subscribe-elt2 .intro-newsletter input {
+  height: 50px;
+  padding: 0 20px;
+  font-size: 14px;
+  letter-spacing: 0px;
+  font-weight: 400;
+  width: 100%;
+  border: none;
+  border-radius: 0px;
+  background: transparent;
+  border: 3px solid #e5e5e5;
+  color: #000;
+  font-weight: 700;
+}
+.intro-newsletter input {
+  height: 50px;
+  padding: 0 25px;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  width: 98%;
+  border: none;
+  background: transparent;
+  border: 2px solid #ddd;
+  color: #000;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.subscribe-elt2 .intro-newsletter button {
+  position: relative;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  font-size: 14px;
+  height: 50px;
+}
+.btn.btn-primary {
+  background: #a82d49;
+  border: 3px solid #a82d49;
+  color: #fff;
+}
+.btn.btn-primary:hover {
+  border: 3px solid #a82d49 !important;
+  background: transparent;
+  color: #a82d49;
+}
+.intro-newsletter button {
+  padding: 0;
+  height: 50px;
+  font-size: 14px;
+}

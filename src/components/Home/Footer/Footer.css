@@ -1,0 +1,62 @@
+.footer2 {
+  background: #a82d49;
+}
+@media only screen and (min-width: 768px) and (max-width: 1230px) {
+  footer {
+    background: #dbdbdb;
+  }
+}
+footer {
+  background: #43121d;
+}
+.footerP {
+  margin-bottom: 65px;
+}
+.footerP a {
+  color: #fff;
+  padding: 0 30px 0 0;
+}
+.footerP a,
+.footerP a:hover,
+.footerP a:focus,
+.footerP button,
+.footerP button:hover {
+  outline: 0 !important;
+  text-decoration: none !important;
+  transition: 0.4s !important;
+  -webkit-transition: 0.4s !important;
+  -moz-transition: 0.4s !important;
+  -ms-transition: 0.4s !important;
+  -o-transition: 0.4s !important;
+}
+.footer2 .footer-social {
+  padding-left: 0;
+  margin-top: -30px;
+}
+.footer-social {
+  padding-left: 25px;
+  margin-top: 10px;
+}
+.space30 {
+  margin-bottom: 30px;
+}
+.footer2 .footer-social a {
+  font-size: 25px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 30px;
+  color: #fff;
+}
+.footer-social a {
+  font-size: 19px;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.footer-copy {
+  background: #a82d49;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #fff;
+  font-size: 13px;
+  letter-spacing: 0.2px;
+}
