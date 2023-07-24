@@ -14,18 +14,17 @@
 </ul>
 </p>
 
-👉 Live Demo: <a href='https://bondi-elsa33eed.vercel.app/' target="_blank">Live Demo</a>
+👉 Live Demo: <a href='https://foodera-elsa33eed.vercel.app/' target="_blank">Live Demo</a>
 
 <h3>Build with:</h3>
 
-» HTML <br>
+» React <br>
 » CSS <br>
-» Bootstrap
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='./imgs/Home-page.png'/>
+<img src='./src/Imgs/Home-page.png'/>
 </div>
