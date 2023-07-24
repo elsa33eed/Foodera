@@ -1,4 +1,4 @@
-<div align='center'><img src="./build/logo.png" /></div>
+<div align='center'><img src="./src/Imgs/logo.png" /></div>
 
 <h2>About the project</h2>
 
