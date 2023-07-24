@@ -2,7 +2,7 @@
   "name": "restaurant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/elsa33eed/Foodera.git",
+  "homepage": "https://foodera-elsa33eed.vercel.app/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
